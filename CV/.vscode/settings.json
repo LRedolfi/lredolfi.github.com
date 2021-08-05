@@ -1,0 +1,22 @@
+{
+    "cSpell.words": [
+        "luciano"
+    ],
+    "workbench.colorCustomizations": {
+        "activityBar.activeBackground": "#9a9afc",
+        "activityBar.activeBorder": "#fee0e0",
+        "activityBar.background": "#9a9afc",
+        "activityBar.foreground": "#15202b",
+        "activityBar.inactiveForeground": "#15202b99",
+        "activityBarBadge.background": "#fee0e0",
+        "activityBarBadge.foreground": "#15202b",
+        "statusBar.background": "#6869fb",
+        "statusBar.foreground": "#e7e7e7",
+        "statusBarItem.hoverBackground": "#9a9afc",
+        "titleBar.activeBackground": "#6869fb",
+        "titleBar.activeForeground": "#e7e7e7",
+        "titleBar.inactiveBackground": "#6869fb99",
+        "titleBar.inactiveForeground": "#e7e7e799"
+    },
+    "peacock.color": "#6869fb"
+}
